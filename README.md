@@ -21,6 +21,8 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Quản lý tiệm giặt sấy bằng phần mềm có thất lạc đồ không?](https://www.biz-vn.com/blog/giat-say/phan-mem-quan-ly-tiem-giat-say/)
 - [Tính giá vốn thật cho một món hàng: đừng để lãi ảo](https://www.biz-vn.com/blog/chung/tinh-gia-von-that-cho-mon-hang-dung-de-lai-ao/)
 - [Máy in tem nhãn cho cửa hàng: có cần mua hay chưa](https://www.biz-vn.com/blog/ban-le/may-in-tem-nhan-cho-cua-hang-co-can-mua-hay-chua/)
+- [Sửa đơn hàng sau khi đã thu tiền: làm sao cho sổ khỏi lệch](https://www.biz-vn.com/blog/chung/sua-don-hang-sau-khi-thu-tien/)
+- [Bảo hiểm hàng hóa cho cửa hàng nhỏ: có nên mua và chuẩn bị thế nào](https://www.biz-vn.com/blog/chung/bao-hiem-hang-hoa-cho-cua-hang-nho/)
 
 ## Bảng tính dùng ngay
 
