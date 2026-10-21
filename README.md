@@ -12,6 +12,14 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Chấm công nhân viên cửa hàng sao cho công bằng?](https://www.biz-vn.com/blog/cua-hang/cham-cong-nhan-vien-cua-hang/)
 - [In hoá đơn bán hàng cần lưu ý gì?](https://www.biz-vn.com/blog/chung/in-hoa-don/)
 
+## Theo từng việc cần làm
+
+- [Chuẩn bị mở cửa mỗi sáng cần làm gì?](https://www.biz-vn.com/blog/chung/chuan-bi-mo-cua-moi-sang/)
+- [Đối chiếu tiền hàng với tiền mặt cuối ngày thế nào cho khớp?](https://www.biz-vn.com/blog/chung/doi-chieu-tien-hang-va-tien-mat-cuoi-ngay/)
+- [Thiết lập quầy thu ngân chuẩn cho cửa hàng từ đâu?](https://www.biz-vn.com/blog/cua-hang/thiet-lap-quay-thu-ngan-dung-chuan/)
+- [Tính giá vốn món ăn bình dân thế nào để quán vẫn có lãi?](https://www.biz-vn.com/blog/quan-an/tinh-gia-von-mon-an-binh-dan/)
+- [Quản lý tiệm giặt sấy bằng phần mềm có thất lạc đồ không?](https://www.biz-vn.com/blog/giat-say/phan-mem-quan-ly-tiem-giat-say/)
+
 ## Bảng tính dùng ngay
 
 - Bảng tính giá vốn món, chấm giờ ca, mẫu biên nhận giặt: https://www.biz-vn.com/tai-lieu/
