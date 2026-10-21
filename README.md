@@ -19,6 +19,8 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Thiết lập quầy thu ngân chuẩn cho cửa hàng từ đâu?](https://www.biz-vn.com/blog/cua-hang/thiet-lap-quay-thu-ngan-dung-chuan/)
 - [Tính giá vốn món ăn bình dân thế nào để quán vẫn có lãi?](https://www.biz-vn.com/blog/quan-an/tinh-gia-von-mon-an-binh-dan/)
 - [Quản lý tiệm giặt sấy bằng phần mềm có thất lạc đồ không?](https://www.biz-vn.com/blog/giat-say/phan-mem-quan-ly-tiem-giat-say/)
+- [Tính giá vốn thật cho một món hàng: đừng để lãi ảo](https://www.biz-vn.com/blog/chung/tinh-gia-von-that-cho-mon-hang-dung-de-lai-ao/)
+- [Máy in tem nhãn cho cửa hàng: có cần mua hay chưa](https://www.biz-vn.com/blog/ban-le/may-in-tem-nhan-cho-cua-hang-co-can-mua-hay-chua/)
 
 ## Bảng tính dùng ngay
 
