@@ -25,6 +25,8 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Bảo hiểm hàng hóa cho cửa hàng nhỏ: có nên mua và chuẩn bị thế nào](https://www.biz-vn.com/blog/chung/bao-hiem-hang-hoa-cho-cua-hang-nho/)
 - [Phần mềm quản lý bán hàng: dùng thử và các chi phí ẩn](https://www.biz-vn.com/blog/chung/phan-mem-quan-ly-ban-hang-dung-thu-va-chi-phi/)
 - [Thuế khoán hộ kinh doanh: mức, hạn nộp và tạm dừng](https://www.biz-vn.com/blog/cua-hang/thue-khoan-ho-kinh-doanh-muc-han-nop-tam-dung/)
+- [Bán hàng Facebook Marketplace cho cửa hàng nhỏ](https://www.biz-vn.com/blog/ban-le/ban-hang-facebook-marketplace-cho-cua-hang-nho/)
+- [Công nợ khách doanh nghiệp và hóa đơn khi bán hàng](https://www.biz-vn.com/blog/chung/cong-no-khach-doanh-nghiep-va-hoa-don-khi-ban-hang/)
 
 ## Bảng tính dùng ngay
 
