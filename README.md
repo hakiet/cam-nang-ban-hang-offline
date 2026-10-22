@@ -23,6 +23,8 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Máy in tem nhãn cho cửa hàng: có cần mua hay chưa](https://www.biz-vn.com/blog/ban-le/may-in-tem-nhan-cho-cua-hang-co-can-mua-hay-chua/)
 - [Sửa đơn hàng sau khi đã thu tiền: làm sao cho sổ khỏi lệch](https://www.biz-vn.com/blog/chung/sua-don-hang-sau-khi-thu-tien/)
 - [Bảo hiểm hàng hóa cho cửa hàng nhỏ: có nên mua và chuẩn bị thế nào](https://www.biz-vn.com/blog/chung/bao-hiem-hang-hoa-cho-cua-hang-nho/)
+- [Phần mềm quản lý bán hàng: dùng thử và các chi phí ẩn](https://www.biz-vn.com/blog/chung/phan-mem-quan-ly-ban-hang-dung-thu-va-chi-phi/)
+- [Thuế khoán hộ kinh doanh: mức, hạn nộp và tạm dừng](https://www.biz-vn.com/blog/cua-hang/thue-khoan-ho-kinh-doanh-muc-han-nop-tam-dung/)
 
 ## Bảng tính dùng ngay
 
