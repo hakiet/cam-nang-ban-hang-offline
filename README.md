@@ -27,6 +27,12 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 - [Thuế khoán hộ kinh doanh: mức, hạn nộp và tạm dừng](https://www.biz-vn.com/blog/cua-hang/thue-khoan-ho-kinh-doanh-muc-han-nop-tam-dung/)
 - [Bán hàng Facebook Marketplace cho cửa hàng nhỏ](https://www.biz-vn.com/blog/ban-le/ban-hang-facebook-marketplace-cho-cua-hang-nho/)
 - [Công nợ khách doanh nghiệp và hóa đơn khi bán hàng](https://www.biz-vn.com/blog/chung/cong-no-khach-doanh-nghiep-va-hoa-don-khi-ban-hang/)
+- [Giặt sofa và giặt rèm tiệm giặt sấy có nên nhận thêm?](https://www.biz-vn.com/blog/giat-say/giat-sofa-va-giat-rem-tiem-giat-say/)
+- [Quản lý ca đêm karaoke thế nào để không mất khách và không rách đồ?](https://www.biz-vn.com/blog/karaoke/quan-ly-ca-dem-karaoke/)
+- [Quản lý nguyên liệu pha chế cafe thế nào để không hao hụt?](https://www.biz-vn.com/blog/cafe/quan-ly-nguyen-lieu-pha-che-cafe/)
+- [Quản lý giải đấu bida thường xuyên thế nào để giữ khách chơi lâu?](https://www.biz-vn.com/blog/bida/quan-ly-giai-dau-bida-thuong-xuyen/)
+- [Số liệu kết quả dịch vụ thẩm mỹ viện quản lý thế nào cho chuẩn?](https://www.biz-vn.com/blog/tham-my-vien/so-lieu-ket-qua-dich-vu-tham-my-vien/)
+- [Quản lý giờ cao điểm tiệm massage thế nào để không mất khách?](https://www.biz-vn.com/blog/massage/gio-cao-diem-tiem-massage/)
 
 ## Bảng tính dùng ngay
 
