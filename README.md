@@ -43,3 +43,4 @@ Tất cả bài viết nằm trên blog Ebusiness, mở là đọc, không cần
 
 Repo này chỉ chứa ghi chú. Mọi hướng dẫn chi tiết nằm trên blog Ebusiness,
 mỗi bài kèm quy trình và ví dụ thực tế cho từng mô hình bán lẻ.
+- [Quản lý tiệm giặt sấy với máy giặt sấy tự động thế nào cho hiệu quả?](https://www.biz-vn.com/blog/giat-say/quan-ly-tiem-giat-say-voi-giat-say-tu-dong/)
