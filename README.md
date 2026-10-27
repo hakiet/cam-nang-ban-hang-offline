@@ -46,3 +46,4 @@ mỗi bài kèm quy trình và ví dụ thực tế cho từng mô hình bán l�
 - [Quản lý tiệm giặt sấy với máy giặt sấy tự động thế nào cho hiệu quả?](https://www.biz-vn.com/blog/giat-say/quan-ly-tiem-giat-say-voi-giat-say-tu-dong/)
 - [Đặt cọc giữ phòng karaoke thế nào để khách không bỏ và không mất tiền?](https://www.biz-vn.com/blog/karaoke/dat-coc-giu-phong-karaoke/)
 - [Xử lý khiếu nại của khách thẩm mỹ viện thế nào để giữ được khách?](https://www.biz-vn.com/blog/tham-my-vien/xu-ly-khieu-nai-khach-tham-my-vien/)
+- [Ghi nhận tình trạng đồ trước khi giặt sấy thế nào để khỏi đền oan?](https://www.biz-vn.com/blog/giat-say/ghi-nhan-tinh-trang-do-truoc-khi-giat-say/)
